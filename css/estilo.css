@@ -1,0 +1,43 @@
+body{
+    background-color: #ffffff;
+}.titulo{
+    background-color: #233aa1;
+    height: 100px;
+    color: #ffffff;
+    text-align: right;
+    margin: 0px;
+    padding: 5px 5px 5px 0;
+
+}
+.practicas{
+    list-style: none;
+    font: 100% Arial;
+    background-color: #3d5ce9;
+    height: 500px;
+    
+}
+.pr{
+    float: left;
+    padding: 0 0 0 1px;
+    margin: 0px;
+}
+
+.practicas li a:link, a:visited{
+    display: block;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 20px 40px;
+    height: 50px;
+}
+.practicas li a:hover{
+    color: #ffffff;
+    background: #233aa1;
+    height: 60px;
+}
+.practicasphp{
+    list-style: none;
+    font: 100% Arial;
+    background-color: #ffffff;
+    height: 500px;
+    margin: 0px;
+}
